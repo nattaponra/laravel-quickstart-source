@@ -1,0 +1,2 @@
+2017/10/28 06:49:22 [warn] 32#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /opt/bitnami/nginx/conf/nginx.conf:5
+2017/10/28 07:09:36 [warn] 33#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /opt/bitnami/nginx/conf/nginx.conf:5

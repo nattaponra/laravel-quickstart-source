@@ -1,0 +1,4 @@
+192.168.32.8 - - [28/Oct/2017:06:50:25 +0000] "GET /favicon.ico HTTP/1.0" 200 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0"
+192.168.32.8 - - [28/Oct/2017:06:50:53 +0000] "POST /task HTTP/1.0" 302 185 "http://localhost/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0"
+192.168.32.8 - - [28/Oct/2017:06:50:57 +0000] "POST /task HTTP/1.0" 302 185 "http://localhost/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0"
+192.168.32.8 - - [28/Oct/2017:07:12:15 +0000] "GET /favicon.ico HTTP/1.0" 200 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0"
